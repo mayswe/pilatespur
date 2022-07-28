@@ -1,0 +1,12 @@
+NeosRulez:
+  Bootstrap:
+    headerLogoPath: 'Images/logobig.svg'
+    headerLogoPackage: 'NeosRulez.Bootstrap'
+    headerLogoAltText: 'NeosRulez.Bootstrap'
+    navbarAlignment: 'right'
+    navbarFluid: false
+    navbarSticky: true
+    navbarBackground: 'bg-red'
+    navbarBreakpoint: 'lg'
+    navbarHover: true
+    clickableParent: true
